@@ -1,1 +1,0 @@
-# sq-ashkan.github.io

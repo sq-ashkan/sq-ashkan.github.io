@@ -1,0 +1,15 @@
+/* puzzle zone for articles and use just for row of article and generally style */
+
+
+/***********************************************************************
+ *  Grid Panel
+ **********************************************************************/
+
+.img-fix-for-magicbox {
+    width: 100%;
+    height: 100%;
+}
+
+.bc-flow-boxes-b {
+    background-color: rgb( 231, 231, 225, 0.5);
+}

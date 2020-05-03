@@ -1,0 +1,47 @@
+/* just for magic box style and puzzle */
+
+
+/* wiki grig bosex */
+
+.magic-orginal-dif-element {
+    height: 100%;
+}
+
+.magic-orginal-outbox-controller {
+    margin-bottom: 100px;
+    height: auto;
+}
+
+.box-in-puzzle-magic {
+    width: 100%;
+    height: auto;
+}
+
+.short-left-inner-box {
+    height: auto;
+}
+
+.short-left-inner-box-middle-row {
+    height: auto;
+}
+
+.padding-make-ok {
+    padding: 10px;
+}
+
+.padding-make-ok-three-little-boxes {
+    padding-bottom: 5px;
+}
+
+.position-rel-maker {
+    position: relative;
+}
+
+.black-roban-sub-text {
+    position: absolute;
+    width: 90%;
+    height: 15px;
+    background-color: rgb(0, 0, 0, 0.7);
+    border-radius: 5px;
+    bottom: 10px;
+}

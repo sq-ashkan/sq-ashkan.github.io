@@ -28,6 +28,8 @@ body {
 }
 
 .container {
+    align-items: center;
+    padding: 10px;
     margin: auto;
     max-width: 800px;
     display: flex;
@@ -40,7 +42,7 @@ body {
 }
 
 .flex {
-    display: block;
+    display: inline;
 }
 
 input,
@@ -53,7 +55,8 @@ button {
 }
 
 input[type='text'] {
-    width: 300px;
+    width: 90%;
+    margin: 4px;
 }
 
 .search-btn {
@@ -64,7 +67,7 @@ input[type='text'] {
 .random-btn {
     cursor: pointer;
     margin-top: 10px;
-    width: 380px;
+    width: 70px;
     border-radius: 10px;
 }
 
@@ -114,7 +117,7 @@ input[type='text'] {
 }
 
 .single-meal img {
-    width: 520px;
+    width: 90%;
     margin: 15px;
     border: 2px #fff solid;
     border-radius: 40px;
@@ -161,14 +164,14 @@ input[type='text'] {
         grid-template-columns: repeat(2, 1fr);
     }
     .meal {
-        height: 200px;
-        width: 200px;
+        height: 150px;
+        width: 150px;
     }
 }
 
 @media (max-width: 500px) {
     input[type='text'] {
-        width: 100%;
+        width: 90%;
     }
     .meals {
         grid-template-columns: 1fr;

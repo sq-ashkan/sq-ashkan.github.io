@@ -176,3 +176,12 @@ a:focus,
 a:active {
     color: #824027;
 }
+
+.nexticone {
+    /* background: url('next.png'); */
+    color: red;
+    height: 50px;
+    width: 50px;
+    display: block;
+    /* Other styles here */
+}
